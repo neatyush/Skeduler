@@ -1,0 +1,23 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    overflow-x: auto;
+}
+
+td,th{
+border: 2px solid #fafafa;
+border-collapse: collapse;
+background-color: whitesmoke;
+text-align: center;
+font-weight: 400;
+
+}
+
+th{
+    background-color: #2f4858;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-weight: 500;
+
+}
